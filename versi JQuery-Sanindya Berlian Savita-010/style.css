@@ -1,0 +1,21 @@
+body {
+    min-height: 2000px;
+}
+.jumbotron{
+    padding-top: 2rem;
+    background-color: antiquewhite;
+}
+
+#project{
+    background-color: antiquewhite;
+}
+
+/* untuk header */
+.navbar.scrolled {
+    background-color: #fff;
+    transition: background-color 0.5s ease;
+    box-shadow: 0px -10px 30px #666;
+}
+.navbar.scrolled a.nav-link{
+    color: #666;
+}
